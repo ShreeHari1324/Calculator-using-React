@@ -1,0 +1,29 @@
+#inputbox{
+    width: 80%;  
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: black;
+    color: yellow;
+}
+#btn{
+    padding: 8px;
+    font-size: x-large;
+    margin: 5px;
+    border-radius: 10px;
+    width: 40px;
+    background-color: black;
+    color: yellow;
+}
+#heading{
+    background-color: black;
+    color: yellow;
+}
+.cal{
+    padding: 5px;
+    height: auto;
+    width: 10%;
+    border: 2px solid;
+    overflow: hidden;
+    text-align: center;
+  }
